@@ -1,31 +1,55 @@
-# ZenAI – AI Yoga Coach
+# 🧘‍♂️ ZenAI – AI Yoga Coach  
 
-## Overview
-ZenAI is a personal AI-powered yoga coach designed to help users perfect their poses with real-time feedback and voice guidance.  
-Built for HackNation's Global AI Hackathon 2025 by Team MindMorphs.
+> Your personal AI-powered yoga coach for real-time posture correction and guided practice  
 
-## Features
-- 📷 **Pose Detection Simulation** – Uses AI-inspired keypoint tracking visuals to simulate posture analysis.  
-- 🎙 **Voice Feedback** – ElevenLabs-generated voice lines guide users through adjustments.  
-- 🎨 **UI Prototype** – Built with Lovable, featuring a clean, calming yoga theme.
+---
 
-## How It Works
-1. User taps "Start Your Journey" on the home screen.
-2. Pose detection screen simulates real-time AI analysis.
-3. Feedback screen delivers actionable advice via voice and text.
+## 📌 Overview  
+**ZenAI** is an AI-inspired yoga coaching application that helps users improve their posture with real-time feedback and voice guidance.  
+Built for **HackNation's Global AI Hackathon 2025** by **Team MindMorphs**, this project focuses on delivering a calm, intuitive, and engaging wellness experience.  
 
-## Tech Stack
-- **Frontend**: Built with Lovable low-code platform
-- **Voice AI**: ElevenLabs
-- **Design**: Canva (UI mockups), Pexels/Unsplash images
-- **Deployment**: Lovable hosting
+---
 
-## Setup
-This prototype was built and deployed with Lovable.  
-To run locally:
-1. Clone the repository.
-2. Open `index.html` in a web browser.
+## ✨ Features  
 
-## Credits
-- Team MindMorphs
-- HackNation Global AI Hackathon
+- 📷 **Pose Detection Simulation**  
+  Visualizes AI-based posture tracking using keypoint-based animations  
+
+- 🎙 **Voice Feedback System**  
+  Real-time guidance powered by ElevenLabs voice AI  
+
+- 🎨 **Clean & Calming UI**  
+  Designed with a minimal and user-friendly yoga theme  
+
+- 🚀 **Interactive User Flow**  
+  Smooth navigation from onboarding → pose detection → feedback  
+
+---
+
+## ⚙️ How It Works  
+
+1. User clicks **"Start Your Journey"**  
+2. System simulates **real-time pose detection**  
+3. AI coach provides **voice + text feedback**  
+4. User improves posture based on suggestions  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Frontend**: Lovable (Low-code platform)  
+- **Voice AI**: ElevenLabs  
+- **Design Tools**: Canva  
+- **Assets**: Pexels / Unsplash  
+- **Deployment**: Lovable Hosting  
+
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- Web Browser (Chrome, Edge, etc.)
+
+### Installation  
+
+1. Will update in future
